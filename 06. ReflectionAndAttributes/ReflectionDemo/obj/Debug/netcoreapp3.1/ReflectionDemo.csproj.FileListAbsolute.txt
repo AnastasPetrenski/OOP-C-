@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\ReflectionDemo\bin\Debug\netcoreapp3.1\ReflectionDemo.exe
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\ReflectionDemo\bin\Debug\netcoreapp3.1\ReflectionDemo.deps.json
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\ReflectionDemo\bin\Debug\netcoreapp3.1\ReflectionDemo.runtimeconfig.json
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\ReflectionDemo\bin\Debug\netcoreapp3.1\ReflectionDemo.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\ReflectionDemo\bin\Debug\netcoreapp3.1\ReflectionDemo.dll
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\ReflectionDemo\bin\Debug\netcoreapp3.1\ReflectionDemo.pdb
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\ReflectionDemo\obj\Debug\netcoreapp3.1\ReflectionDemo.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\ReflectionDemo\obj\Debug\netcoreapp3.1\ReflectionDemo.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\ReflectionDemo\obj\Debug\netcoreapp3.1\ReflectionDemo.AssemblyInfo.cs
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\ReflectionDemo\obj\Debug\netcoreapp3.1\ReflectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\ReflectionDemo\obj\Debug\netcoreapp3.1\ReflectionDemo.dll
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\ReflectionDemo\obj\Debug\netcoreapp3.1\ReflectionDemo.pdb
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\ReflectionDemo\obj\Debug\netcoreapp3.1\ReflectionDemo.genruntimeconfig.cache

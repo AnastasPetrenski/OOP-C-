@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\BarracksWarANewFactory\bin\Debug\netcoreapp3.1\BarracksWarANewFactory.exe
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\BarracksWarANewFactory\bin\Debug\netcoreapp3.1\BarracksWarANewFactory.deps.json
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\BarracksWarANewFactory\bin\Debug\netcoreapp3.1\BarracksWarANewFactory.runtimeconfig.json
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\BarracksWarANewFactory\bin\Debug\netcoreapp3.1\BarracksWarANewFactory.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\BarracksWarANewFactory\bin\Debug\netcoreapp3.1\BarracksWarANewFactory.dll
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\BarracksWarANewFactory\bin\Debug\netcoreapp3.1\BarracksWarANewFactory.pdb
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\BarracksWarANewFactory\obj\Debug\netcoreapp3.1\BarracksWarANewFactory.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\BarracksWarANewFactory\obj\Debug\netcoreapp3.1\BarracksWarANewFactory.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\BarracksWarANewFactory\obj\Debug\netcoreapp3.1\BarracksWarANewFactory.AssemblyInfo.cs
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\BarracksWarANewFactory\obj\Debug\netcoreapp3.1\BarracksWarANewFactory.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\BarracksWarANewFactory\obj\Debug\netcoreapp3.1\BarracksWarANewFactory.dll
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\BarracksWarANewFactory\obj\Debug\netcoreapp3.1\BarracksWarANewFactory.pdb
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\BarracksWarANewFactory\obj\Debug\netcoreapp3.1\BarracksWarANewFactory.genruntimeconfig.cache

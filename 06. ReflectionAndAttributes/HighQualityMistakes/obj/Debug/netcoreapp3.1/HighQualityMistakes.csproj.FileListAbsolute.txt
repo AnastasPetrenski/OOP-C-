@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\HighQualityMistakes\bin\Debug\netcoreapp3.1\HighQualityMistakes.exe
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\HighQualityMistakes\bin\Debug\netcoreapp3.1\HighQualityMistakes.deps.json
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\HighQualityMistakes\bin\Debug\netcoreapp3.1\HighQualityMistakes.runtimeconfig.json
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\HighQualityMistakes\bin\Debug\netcoreapp3.1\HighQualityMistakes.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\HighQualityMistakes\bin\Debug\netcoreapp3.1\HighQualityMistakes.dll
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\HighQualityMistakes\bin\Debug\netcoreapp3.1\HighQualityMistakes.pdb
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\HighQualityMistakes\obj\Debug\netcoreapp3.1\HighQualityMistakes.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\HighQualityMistakes\obj\Debug\netcoreapp3.1\HighQualityMistakes.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\HighQualityMistakes\obj\Debug\netcoreapp3.1\HighQualityMistakes.AssemblyInfo.cs
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\HighQualityMistakes\obj\Debug\netcoreapp3.1\HighQualityMistakes.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\HighQualityMistakes\obj\Debug\netcoreapp3.1\HighQualityMistakes.dll
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\HighQualityMistakes\obj\Debug\netcoreapp3.1\HighQualityMistakes.pdb
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\HighQualityMistakes\obj\Debug\netcoreapp3.1\HighQualityMistakes.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\OOP06ReflectionAndAttributes\bin\Debug\netcoreapp3.1\OOP06ReflectionAndAttributes.exe
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\OOP06ReflectionAndAttributes\bin\Debug\netcoreapp3.1\OOP06ReflectionAndAttributes.deps.json
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\OOP06ReflectionAndAttributes\bin\Debug\netcoreapp3.1\OOP06ReflectionAndAttributes.runtimeconfig.json
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\OOP06ReflectionAndAttributes\bin\Debug\netcoreapp3.1\OOP06ReflectionAndAttributes.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\OOP06ReflectionAndAttributes\bin\Debug\netcoreapp3.1\OOP06ReflectionAndAttributes.dll
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\OOP06ReflectionAndAttributes\bin\Debug\netcoreapp3.1\OOP06ReflectionAndAttributes.pdb
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\OOP06ReflectionAndAttributes\obj\Debug\netcoreapp3.1\OOP06ReflectionAndAttributes.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\OOP06ReflectionAndAttributes\obj\Debug\netcoreapp3.1\OOP06ReflectionAndAttributes.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\OOP06ReflectionAndAttributes\obj\Debug\netcoreapp3.1\OOP06ReflectionAndAttributes.AssemblyInfo.cs
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\OOP06ReflectionAndAttributes\obj\Debug\netcoreapp3.1\OOP06ReflectionAndAttributes.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\OOP06ReflectionAndAttributes\obj\Debug\netcoreapp3.1\OOP06ReflectionAndAttributes.dll
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\OOP06ReflectionAndAttributes\obj\Debug\netcoreapp3.1\OOP06ReflectionAndAttributes.pdb
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\OOP06ReflectionAndAttributes\obj\Debug\netcoreapp3.1\OOP06ReflectionAndAttributes.genruntimeconfig.cache

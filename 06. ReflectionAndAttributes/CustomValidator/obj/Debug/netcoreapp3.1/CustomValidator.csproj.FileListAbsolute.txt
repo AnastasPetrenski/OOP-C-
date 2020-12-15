@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\CustomValidator\obj\Debug\netcoreapp3.1\CustomValidator.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\CustomValidator\obj\Debug\netcoreapp3.1\CustomValidator.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\CustomValidator\obj\Debug\netcoreapp3.1\CustomValidator.AssemblyInfo.cs
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\CustomValidator\obj\Debug\netcoreapp3.1\CustomValidator.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\CustomValidator\bin\Debug\netcoreapp3.1\CustomValidator.exe
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\CustomValidator\bin\Debug\netcoreapp3.1\CustomValidator.deps.json
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\CustomValidator\bin\Debug\netcoreapp3.1\CustomValidator.runtimeconfig.json
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\CustomValidator\bin\Debug\netcoreapp3.1\CustomValidator.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\CustomValidator\bin\Debug\netcoreapp3.1\CustomValidator.dll
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\CustomValidator\bin\Debug\netcoreapp3.1\CustomValidator.pdb
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\CustomValidator\obj\Debug\netcoreapp3.1\CustomValidator.dll
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\CustomValidator\obj\Debug\netcoreapp3.1\CustomValidator.pdb
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\CustomValidator\obj\Debug\netcoreapp3.1\CustomValidator.genruntimeconfig.cache

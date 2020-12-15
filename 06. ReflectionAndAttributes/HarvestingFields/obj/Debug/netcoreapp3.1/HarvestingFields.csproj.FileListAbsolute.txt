@@ -1,0 +1,12 @@
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\HarvestingFields\bin\Debug\netcoreapp3.1\HarvestingFields.exe
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\HarvestingFields\bin\Debug\netcoreapp3.1\HarvestingFields.deps.json
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\HarvestingFields\bin\Debug\netcoreapp3.1\HarvestingFields.runtimeconfig.json
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\HarvestingFields\bin\Debug\netcoreapp3.1\HarvestingFields.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\HarvestingFields\bin\Debug\netcoreapp3.1\HarvestingFields.dll
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\HarvestingFields\bin\Debug\netcoreapp3.1\HarvestingFields.pdb
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\HarvestingFields\obj\Debug\netcoreapp3.1\HarvestingFields.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\HarvestingFields\obj\Debug\netcoreapp3.1\HarvestingFields.AssemblyInfo.cs
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\HarvestingFields\obj\Debug\netcoreapp3.1\HarvestingFields.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\HarvestingFields\obj\Debug\netcoreapp3.1\HarvestingFields.dll
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\HarvestingFields\obj\Debug\netcoreapp3.1\HarvestingFields.pdb
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\HarvestingFields\obj\Debug\netcoreapp3.1\HarvestingFields.genruntimeconfig.cache

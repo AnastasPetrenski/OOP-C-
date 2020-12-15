@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\InfernoInfinity\bin\Debug\netcoreapp3.1\InfernoInfinity.exe
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\InfernoInfinity\bin\Debug\netcoreapp3.1\InfernoInfinity.deps.json
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\InfernoInfinity\bin\Debug\netcoreapp3.1\InfernoInfinity.runtimeconfig.json
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\InfernoInfinity\bin\Debug\netcoreapp3.1\InfernoInfinity.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\InfernoInfinity\bin\Debug\netcoreapp3.1\InfernoInfinity.dll
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\InfernoInfinity\bin\Debug\netcoreapp3.1\InfernoInfinity.pdb
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\InfernoInfinity\obj\Debug\netcoreapp3.1\InfernoInfinity.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\InfernoInfinity\obj\Debug\netcoreapp3.1\InfernoInfinity.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\InfernoInfinity\obj\Debug\netcoreapp3.1\InfernoInfinity.AssemblyInfo.cs
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\InfernoInfinity\obj\Debug\netcoreapp3.1\InfernoInfinity.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\InfernoInfinity\obj\Debug\netcoreapp3.1\InfernoInfinity.dll
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\InfernoInfinity\obj\Debug\netcoreapp3.1\InfernoInfinity.pdb
+C:\Users\anastas\source\repos\OOP06ReflectionAndAttributes\InfernoInfinity\obj\Debug\netcoreapp3.1\InfernoInfinity.genruntimeconfig.cache
