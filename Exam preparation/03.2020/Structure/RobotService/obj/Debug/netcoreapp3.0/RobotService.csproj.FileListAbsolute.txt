@@ -1,0 +1,13 @@
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\03.2020\Structure\RobotService\bin\Debug\netcoreapp3.0\RobotService.exe
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\03.2020\Structure\RobotService\bin\Debug\netcoreapp3.0\RobotService.deps.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\03.2020\Structure\RobotService\bin\Debug\netcoreapp3.0\RobotService.runtimeconfig.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\03.2020\Structure\RobotService\bin\Debug\netcoreapp3.0\RobotService.runtimeconfig.dev.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\03.2020\Structure\RobotService\bin\Debug\netcoreapp3.0\RobotService.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\03.2020\Structure\RobotService\bin\Debug\netcoreapp3.0\RobotService.pdb
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\03.2020\Structure\RobotService\obj\Debug\netcoreapp3.0\RobotService.csprojAssemblyReference.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\03.2020\Structure\RobotService\obj\Debug\netcoreapp3.0\RobotService.AssemblyInfoInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\03.2020\Structure\RobotService\obj\Debug\netcoreapp3.0\RobotService.AssemblyInfo.cs
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\03.2020\Structure\RobotService\obj\Debug\netcoreapp3.0\RobotService.csproj.CoreCompileInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\03.2020\Structure\RobotService\obj\Debug\netcoreapp3.0\RobotService.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\03.2020\Structure\RobotService\obj\Debug\netcoreapp3.0\RobotService.pdb
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\03.2020\Structure\RobotService\obj\Debug\netcoreapp3.0\RobotService.genruntimeconfig.cache

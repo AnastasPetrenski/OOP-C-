@@ -1,0 +1,12 @@
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\02.2019\Skeleton_Structure\bin\Debug\netcoreapp2.0\SoftUniRestaurant.deps.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\02.2019\Skeleton_Structure\bin\Debug\netcoreapp2.0\SoftUniRestaurant.runtimeconfig.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\02.2019\Skeleton_Structure\bin\Debug\netcoreapp2.0\SoftUniRestaurant.runtimeconfig.dev.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\02.2019\Skeleton_Structure\bin\Debug\netcoreapp2.0\SoftUniRestaurant.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\02.2019\Skeleton_Structure\bin\Debug\netcoreapp2.0\SoftUniRestaurant.pdb
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\02.2019\Skeleton_Structure\obj\Debug\netcoreapp2.0\SoftUniRestaurant.csprojAssemblyReference.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\02.2019\Skeleton_Structure\obj\Debug\netcoreapp2.0\SoftUniRestaurant.AssemblyInfoInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\02.2019\Skeleton_Structure\obj\Debug\netcoreapp2.0\SoftUniRestaurant.AssemblyInfo.cs
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\02.2019\Skeleton_Structure\obj\Debug\netcoreapp2.0\SoftUniRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\02.2019\Skeleton_Structure\obj\Debug\netcoreapp2.0\SoftUniRestaurant.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\02.2019\Skeleton_Structure\obj\Debug\netcoreapp2.0\SoftUniRestaurant.pdb
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\02.2019\Skeleton_Structure\obj\Debug\netcoreapp2.0\SoftUniRestaurant.genruntimeconfig.cache

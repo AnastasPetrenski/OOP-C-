@@ -1,0 +1,13 @@
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\09.2019\Structure\bin\Debug\netcoreapp3.1\SpaceStation.exe
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\09.2019\Structure\bin\Debug\netcoreapp3.1\SpaceStation.deps.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\09.2019\Structure\bin\Debug\netcoreapp3.1\SpaceStation.runtimeconfig.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\09.2019\Structure\bin\Debug\netcoreapp3.1\SpaceStation.runtimeconfig.dev.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\09.2019\Structure\bin\Debug\netcoreapp3.1\SpaceStation.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\09.2019\Structure\bin\Debug\netcoreapp3.1\SpaceStation.pdb
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\09.2019\Structure\obj\Debug\netcoreapp3.1\SpaceStation.csprojAssemblyReference.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\09.2019\Structure\obj\Debug\netcoreapp3.1\SpaceStation.AssemblyInfoInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\09.2019\Structure\obj\Debug\netcoreapp3.1\SpaceStation.AssemblyInfo.cs
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\09.2019\Structure\obj\Debug\netcoreapp3.1\SpaceStation.csproj.CoreCompileInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\09.2019\Structure\obj\Debug\netcoreapp3.1\SpaceStation.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\09.2019\Structure\obj\Debug\netcoreapp3.1\SpaceStation.pdb
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\09.2019\Structure\obj\Debug\netcoreapp3.1\SpaceStation.genruntimeconfig.cache

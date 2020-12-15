@@ -1,0 +1,26 @@
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.exe
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.deps.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.runtimeconfig.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.runtimeconfig.dev.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.pdb
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.csprojAssemblyReference.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.AssemblyInfoInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.AssemblyInfo.cs
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.csproj.CoreCompileInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.pdb
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.genruntimeconfig.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020 Not100%\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.exe
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020 Not100%\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.deps.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020 Not100%\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.runtimeconfig.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020 Not100%\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.runtimeconfig.dev.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020 Not100%\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020 Not100%\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.pdb
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020 Not100%\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.csprojAssemblyReference.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020 Not100%\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.AssemblyInfoInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020 Not100%\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.AssemblyInfo.cs
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020 Not100%\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.csproj.CoreCompileInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020 Not100%\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020 Not100%\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.pdb
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020 Not100%\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2019\Structure\MXGP\bin\Debug\netcoreapp2.1\MXGP.deps.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2019\Structure\MXGP\bin\Debug\netcoreapp2.1\MXGP.runtimeconfig.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2019\Structure\MXGP\bin\Debug\netcoreapp2.1\MXGP.runtimeconfig.dev.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2019\Structure\MXGP\bin\Debug\netcoreapp2.1\MXGP.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2019\Structure\MXGP\bin\Debug\netcoreapp2.1\MXGP.pdb
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2019\Structure\MXGP\obj\Debug\netcoreapp2.1\MXGP.csprojAssemblyReference.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2019\Structure\MXGP\obj\Debug\netcoreapp2.1\MXGP.AssemblyInfoInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2019\Structure\MXGP\obj\Debug\netcoreapp2.1\MXGP.AssemblyInfo.cs
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2019\Structure\MXGP\obj\Debug\netcoreapp2.1\MXGP.csproj.CoreCompileInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2019\Structure\MXGP\obj\Debug\netcoreapp2.1\MXGP.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2019\Structure\MXGP\obj\Debug\netcoreapp2.1\MXGP.pdb
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2019\Structure\MXGP\obj\Debug\netcoreapp2.1\MXGP.genruntimeconfig.cache

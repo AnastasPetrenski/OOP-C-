@@ -1,0 +1,13 @@
+C:\Users\anastas\Desktop\New folder\Store-Skeleton\Store\bin\Debug\netcoreapp3.1\Store.exe
+C:\Users\anastas\Desktop\New folder\Store-Skeleton\Store\bin\Debug\netcoreapp3.1\Store.deps.json
+C:\Users\anastas\Desktop\New folder\Store-Skeleton\Store\bin\Debug\netcoreapp3.1\Store.runtimeconfig.json
+C:\Users\anastas\Desktop\New folder\Store-Skeleton\Store\bin\Debug\netcoreapp3.1\Store.runtimeconfig.dev.json
+C:\Users\anastas\Desktop\New folder\Store-Skeleton\Store\bin\Debug\netcoreapp3.1\Store.dll
+C:\Users\anastas\Desktop\New folder\Store-Skeleton\Store\bin\Debug\netcoreapp3.1\Store.pdb
+C:\Users\anastas\Desktop\New folder\Store-Skeleton\Store\obj\Debug\netcoreapp3.1\Store.csprojAssemblyReference.cache
+C:\Users\anastas\Desktop\New folder\Store-Skeleton\Store\obj\Debug\netcoreapp3.1\Store.AssemblyInfoInputs.cache
+C:\Users\anastas\Desktop\New folder\Store-Skeleton\Store\obj\Debug\netcoreapp3.1\Store.AssemblyInfo.cs
+C:\Users\anastas\Desktop\New folder\Store-Skeleton\Store\obj\Debug\netcoreapp3.1\Store.csproj.CoreCompileInputs.cache
+C:\Users\anastas\Desktop\New folder\Store-Skeleton\Store\obj\Debug\netcoreapp3.1\Store.dll
+C:\Users\anastas\Desktop\New folder\Store-Skeleton\Store\obj\Debug\netcoreapp3.1\Store.pdb
+C:\Users\anastas\Desktop\New folder\Store-Skeleton\Store\obj\Debug\netcoreapp3.1\Store.genruntimeconfig.cache

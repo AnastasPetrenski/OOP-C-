@@ -1,0 +1,12 @@
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\04.2019\Telecom\bin\Debug\netcoreapp2.1\Telecom.deps.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\04.2019\Telecom\bin\Debug\netcoreapp2.1\Telecom.runtimeconfig.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\04.2019\Telecom\bin\Debug\netcoreapp2.1\Telecom.runtimeconfig.dev.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\04.2019\Telecom\bin\Debug\netcoreapp2.1\Telecom.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\04.2019\Telecom\bin\Debug\netcoreapp2.1\Telecom.pdb
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\04.2019\Telecom\obj\Debug\netcoreapp2.1\Telecom.csprojAssemblyReference.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\04.2019\Telecom\obj\Debug\netcoreapp2.1\Telecom.AssemblyInfoInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\04.2019\Telecom\obj\Debug\netcoreapp2.1\Telecom.AssemblyInfo.cs
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\04.2019\Telecom\obj\Debug\netcoreapp2.1\Telecom.csproj.CoreCompileInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\04.2019\Telecom\obj\Debug\netcoreapp2.1\Telecom.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\04.2019\Telecom\obj\Debug\netcoreapp2.1\Telecom.pdb
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\04.2019\Telecom\obj\Debug\netcoreapp2.1\Telecom.genruntimeconfig.cache

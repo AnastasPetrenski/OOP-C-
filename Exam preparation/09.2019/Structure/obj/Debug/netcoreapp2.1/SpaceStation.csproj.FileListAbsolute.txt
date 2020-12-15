@@ -1,0 +1,4 @@
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\09.2019\Structure\obj\Debug\netcoreapp2.1\SpaceStation.csprojAssemblyReference.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\09.2019\Structure\obj\Debug\netcoreapp2.1\SpaceStation.AssemblyInfoInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\09.2019\Structure\obj\Debug\netcoreapp2.1\SpaceStation.AssemblyInfo.cs
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\09.2019\Structure\obj\Debug\netcoreapp2.1\SpaceStation.csproj.CoreCompileInputs.cache

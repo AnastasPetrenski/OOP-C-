@@ -1,0 +1,26 @@
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.exe
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.deps.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.dev.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.pdb
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csprojAssemblyReference.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfoInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfo.cs
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CoreCompileInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.pdb
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.genruntimeconfig.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020 Not100%\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.exe
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020 Not100%\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.deps.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020 Not100%\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020 Not100%\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.dev.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020 Not100%\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020 Not100%\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.pdb
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020 Not100%\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csprojAssemblyReference.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020 Not100%\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfoInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020 Not100%\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfo.cs
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020 Not100%\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CoreCompileInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020 Not100%\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020 Not100%\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.pdb
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\EXAMS\OOP\07.2020 Not100%\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.genruntimeconfig.cache
