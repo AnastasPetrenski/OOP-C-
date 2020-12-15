@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\OOP07UnitTesting\Calculater\bin\Debug\netcoreapp3.1\Calculater.exe
+C:\Users\anastas\source\repos\OOP07UnitTesting\Calculater\bin\Debug\netcoreapp3.1\Calculater.deps.json
+C:\Users\anastas\source\repos\OOP07UnitTesting\Calculater\bin\Debug\netcoreapp3.1\Calculater.runtimeconfig.json
+C:\Users\anastas\source\repos\OOP07UnitTesting\Calculater\bin\Debug\netcoreapp3.1\Calculater.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\OOP07UnitTesting\Calculater\bin\Debug\netcoreapp3.1\Calculater.dll
+C:\Users\anastas\source\repos\OOP07UnitTesting\Calculater\bin\Debug\netcoreapp3.1\Calculater.pdb
+C:\Users\anastas\source\repos\OOP07UnitTesting\Calculater\obj\Debug\netcoreapp3.1\Calculater.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\OOP07UnitTesting\Calculater\obj\Debug\netcoreapp3.1\Calculater.AssemblyInfo.cs
+C:\Users\anastas\source\repos\OOP07UnitTesting\Calculater\obj\Debug\netcoreapp3.1\Calculater.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\OOP07UnitTesting\Calculater\obj\Debug\netcoreapp3.1\Calculater.dll
+C:\Users\anastas\source\repos\OOP07UnitTesting\Calculater\obj\Debug\netcoreapp3.1\Calculater.pdb
+C:\Users\anastas\source\repos\OOP07UnitTesting\Calculater\obj\Debug\netcoreapp3.1\Calculater.genruntimeconfig.cache
+C:\Users\anastas\source\repos\OOP07UnitTesting\Calculater\obj\Debug\netcoreapp3.1\Calculater.csprojAssemblyReference.cache

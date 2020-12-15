@@ -1,0 +1,12 @@
+C:\Users\anastas\source\repos\OOP07UnitTesting\OOP07UnitTesting\bin\Debug\netcoreapp3.1\OOP07UnitTesting.exe
+C:\Users\anastas\source\repos\OOP07UnitTesting\OOP07UnitTesting\bin\Debug\netcoreapp3.1\OOP07UnitTesting.deps.json
+C:\Users\anastas\source\repos\OOP07UnitTesting\OOP07UnitTesting\bin\Debug\netcoreapp3.1\OOP07UnitTesting.runtimeconfig.json
+C:\Users\anastas\source\repos\OOP07UnitTesting\OOP07UnitTesting\bin\Debug\netcoreapp3.1\OOP07UnitTesting.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\OOP07UnitTesting\OOP07UnitTesting\bin\Debug\netcoreapp3.1\OOP07UnitTesting.dll
+C:\Users\anastas\source\repos\OOP07UnitTesting\OOP07UnitTesting\bin\Debug\netcoreapp3.1\OOP07UnitTesting.pdb
+C:\Users\anastas\source\repos\OOP07UnitTesting\OOP07UnitTesting\obj\Debug\netcoreapp3.1\OOP07UnitTesting.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\OOP07UnitTesting\OOP07UnitTesting\obj\Debug\netcoreapp3.1\OOP07UnitTesting.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\OOP07UnitTesting\OOP07UnitTesting\obj\Debug\netcoreapp3.1\OOP07UnitTesting.AssemblyInfo.cs
+C:\Users\anastas\source\repos\OOP07UnitTesting\OOP07UnitTesting\obj\Debug\netcoreapp3.1\OOP07UnitTesting.dll
+C:\Users\anastas\source\repos\OOP07UnitTesting\OOP07UnitTesting\obj\Debug\netcoreapp3.1\OOP07UnitTesting.pdb
+C:\Users\anastas\source\repos\OOP07UnitTesting\OOP07UnitTesting\obj\Debug\netcoreapp3.1\OOP07UnitTesting.genruntimeconfig.cache

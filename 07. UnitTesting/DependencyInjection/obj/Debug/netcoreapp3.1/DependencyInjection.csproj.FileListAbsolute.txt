@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\OOP07UnitTesting\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.exe
+C:\Users\anastas\source\repos\OOP07UnitTesting\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.deps.json
+C:\Users\anastas\source\repos\OOP07UnitTesting\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.runtimeconfig.json
+C:\Users\anastas\source\repos\OOP07UnitTesting\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\OOP07UnitTesting\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.dll
+C:\Users\anastas\source\repos\OOP07UnitTesting\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.pdb
+C:\Users\anastas\source\repos\OOP07UnitTesting\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\OOP07UnitTesting\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\OOP07UnitTesting\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.AssemblyInfo.cs
+C:\Users\anastas\source\repos\OOP07UnitTesting\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\OOP07UnitTesting\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.dll
+C:\Users\anastas\source\repos\OOP07UnitTesting\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.pdb
+C:\Users\anastas\source\repos\OOP07UnitTesting\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.genruntimeconfig.cache
