@@ -1,0 +1,15 @@
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\OpenCloseExampleDrawingShapes\bin\Debug\netcoreapp3.1\OpenCloseExampleDrawingShapes.exe
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\OpenCloseExampleDrawingShapes\obj\Debug\netcoreapp3.1\OpenCloseExampleDrawingShapes.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\OpenCloseExampleDrawingShapes\obj\Debug\netcoreapp3.1\OpenCloseExampleDrawingShapes.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\OpenCloseExampleDrawingShapes\obj\Debug\netcoreapp3.1\OpenCloseExampleDrawingShapes.AssemblyInfo.cs
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\OpenCloseExampleDrawingShapes\bin\Debug\netcoreapp3.1\OpenCloseExampleDrawingShapes.deps.json
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\OpenCloseExampleDrawingShapes\bin\Debug\netcoreapp3.1\OpenCloseExampleDrawingShapes.runtimeconfig.json
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\OpenCloseExampleDrawingShapes\bin\Debug\netcoreapp3.1\OpenCloseExampleDrawingShapes.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\OpenCloseExampleDrawingShapes\bin\Debug\netcoreapp3.1\OpenCloseExampleDrawingShapes.dll
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\OpenCloseExampleDrawingShapes\bin\Debug\netcoreapp3.1\OpenCloseExampleDrawingShapes.pdb
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\OpenCloseExampleDrawingShapes\bin\Debug\netcoreapp3.1\SimpleInjector.dll
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\OpenCloseExampleDrawingShapes\obj\Debug\netcoreapp3.1\OpenCloseExampleDrawingShapes.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\OpenCloseExampleDrawingShapes\obj\Debug\netcoreapp3.1\OpenCloseExampleDrawingShapes.csproj.CopyComplete
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\OpenCloseExampleDrawingShapes\obj\Debug\netcoreapp3.1\OpenCloseExampleDrawingShapes.dll
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\OpenCloseExampleDrawingShapes\obj\Debug\netcoreapp3.1\OpenCloseExampleDrawingShapes.pdb
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\OpenCloseExampleDrawingShapes\obj\Debug\netcoreapp3.1\OpenCloseExampleDrawingShapes.genruntimeconfig.cache

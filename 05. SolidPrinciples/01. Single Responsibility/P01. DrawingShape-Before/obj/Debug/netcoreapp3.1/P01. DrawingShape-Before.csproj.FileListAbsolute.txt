@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\01. Single Responsibility\P01. DrawingShape-Before\bin\Debug\netcoreapp3.1\P01. DrawingShape-Before.exe
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\01. Single Responsibility\P01. DrawingShape-Before\bin\Debug\netcoreapp3.1\P01. DrawingShape-Before.deps.json
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\01. Single Responsibility\P01. DrawingShape-Before\bin\Debug\netcoreapp3.1\P01. DrawingShape-Before.runtimeconfig.json
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\01. Single Responsibility\P01. DrawingShape-Before\bin\Debug\netcoreapp3.1\P01. DrawingShape-Before.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\01. Single Responsibility\P01. DrawingShape-Before\bin\Debug\netcoreapp3.1\P01. DrawingShape-Before.dll
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\01. Single Responsibility\P01. DrawingShape-Before\bin\Debug\netcoreapp3.1\P01. DrawingShape-Before.pdb
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\01. Single Responsibility\P01. DrawingShape-Before\obj\Debug\netcoreapp3.1\P01. DrawingShape-Before.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\01. Single Responsibility\P01. DrawingShape-Before\obj\Debug\netcoreapp3.1\P01. DrawingShape-Before.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\01. Single Responsibility\P01. DrawingShape-Before\obj\Debug\netcoreapp3.1\P01. DrawingShape-Before.AssemblyInfo.cs
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\01. Single Responsibility\P01. DrawingShape-Before\obj\Debug\netcoreapp3.1\P01. DrawingShape-Before.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\01. Single Responsibility\P01. DrawingShape-Before\obj\Debug\netcoreapp3.1\P01. DrawingShape-Before.dll
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\01. Single Responsibility\P01. DrawingShape-Before\obj\Debug\netcoreapp3.1\P01. DrawingShape-Before.pdb
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\01. Single Responsibility\P01. DrawingShape-Before\obj\Debug\netcoreapp3.1\P01. DrawingShape-Before.genruntimeconfig.cache

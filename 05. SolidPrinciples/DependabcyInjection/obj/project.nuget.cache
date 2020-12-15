@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "kcxeWTF9c7seBLnYaqm5DbmG8d5lY32aSCJ1iA+dt8Dwnymifd9u94EPf5VR0ww8sNi7FAqGtJ7f67AkAeQmyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anastas\\source\\repos\\OOP05SolidPrinciples\\DependabcyInjection\\DependencyInjection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anastas\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
+    "C:\\Users\\anastas\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "C:\\Users\\anastas\\.nuget\\packages\\simpleinjector\\5.1.0\\simpleinjector.5.1.0.nupkg.sha512",
+    "C:\\Users\\anastas\\.nuget\\packages\\system.componentmodel\\4.0.1\\system.componentmodel.4.0.1.nupkg.sha512",
+    "C:\\Users\\anastas\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

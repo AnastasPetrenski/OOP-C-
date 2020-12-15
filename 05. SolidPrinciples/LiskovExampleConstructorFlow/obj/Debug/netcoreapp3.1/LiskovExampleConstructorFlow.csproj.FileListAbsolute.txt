@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\LiskovExampleConstructorFlow\bin\Debug\netcoreapp3.1\LiskovExampleConstructorFlow.exe
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\LiskovExampleConstructorFlow\bin\Debug\netcoreapp3.1\LiskovExampleConstructorFlow.deps.json
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\LiskovExampleConstructorFlow\bin\Debug\netcoreapp3.1\LiskovExampleConstructorFlow.runtimeconfig.json
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\LiskovExampleConstructorFlow\bin\Debug\netcoreapp3.1\LiskovExampleConstructorFlow.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\LiskovExampleConstructorFlow\bin\Debug\netcoreapp3.1\LiskovExampleConstructorFlow.dll
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\LiskovExampleConstructorFlow\bin\Debug\netcoreapp3.1\LiskovExampleConstructorFlow.pdb
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\LiskovExampleConstructorFlow\obj\Debug\netcoreapp3.1\LiskovExampleConstructorFlow.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\LiskovExampleConstructorFlow\obj\Debug\netcoreapp3.1\LiskovExampleConstructorFlow.AssemblyInfo.cs
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\LiskovExampleConstructorFlow\obj\Debug\netcoreapp3.1\LiskovExampleConstructorFlow.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\LiskovExampleConstructorFlow\obj\Debug\netcoreapp3.1\LiskovExampleConstructorFlow.dll
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\LiskovExampleConstructorFlow\obj\Debug\netcoreapp3.1\LiskovExampleConstructorFlow.pdb
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\LiskovExampleConstructorFlow\obj\Debug\netcoreapp3.1\LiskovExampleConstructorFlow.genruntimeconfig.cache
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\LiskovExampleConstructorFlow\obj\Debug\netcoreapp3.1\LiskovExampleConstructorFlow.csprojAssemblyReference.cache

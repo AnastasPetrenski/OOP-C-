@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\Logger\bin\Debug\netcoreapp3.1\Logger.exe
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\Logger\bin\Debug\netcoreapp3.1\Logger.deps.json
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\Logger\bin\Debug\netcoreapp3.1\Logger.runtimeconfig.json
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\Logger\bin\Debug\netcoreapp3.1\Logger.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\Logger\bin\Debug\netcoreapp3.1\Logger.dll
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\Logger\bin\Debug\netcoreapp3.1\Logger.pdb
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\Logger\obj\Debug\netcoreapp3.1\Logger.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\Logger\obj\Debug\netcoreapp3.1\Logger.AssemblyInfo.cs
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\Logger\obj\Debug\netcoreapp3.1\Logger.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\Logger\obj\Debug\netcoreapp3.1\Logger.dll
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\Logger\obj\Debug\netcoreapp3.1\Logger.pdb
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\Logger\obj\Debug\netcoreapp3.1\Logger.genruntimeconfig.cache
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\Logger\obj\Debug\netcoreapp3.1\Logger.csprojAssemblyReference.cache

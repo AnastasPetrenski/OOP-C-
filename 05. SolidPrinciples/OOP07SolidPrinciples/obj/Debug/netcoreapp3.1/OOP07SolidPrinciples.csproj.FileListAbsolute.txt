@@ -1,0 +1,15 @@
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\OOP07SolidPrinciples\bin\Debug\netcoreapp3.1\OOP07SolidPrinciples.exe
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\OOP07SolidPrinciples\bin\Debug\netcoreapp3.1\OOP07SolidPrinciples.deps.json
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\OOP07SolidPrinciples\bin\Debug\netcoreapp3.1\OOP07SolidPrinciples.runtimeconfig.json
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\OOP07SolidPrinciples\bin\Debug\netcoreapp3.1\OOP07SolidPrinciples.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\OOP07SolidPrinciples\bin\Debug\netcoreapp3.1\OOP07SolidPrinciples.dll
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\OOP07SolidPrinciples\bin\Debug\netcoreapp3.1\OOP07SolidPrinciples.pdb
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\OOP07SolidPrinciples\obj\Debug\netcoreapp3.1\OOP07SolidPrinciples.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\OOP07SolidPrinciples\obj\Debug\netcoreapp3.1\OOP07SolidPrinciples.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\OOP07SolidPrinciples\obj\Debug\netcoreapp3.1\OOP07SolidPrinciples.AssemblyInfo.cs
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\OOP07SolidPrinciples\obj\Debug\netcoreapp3.1\OOP07SolidPrinciples.dll
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\OOP07SolidPrinciples\obj\Debug\netcoreapp3.1\OOP07SolidPrinciples.pdb
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\OOP07SolidPrinciples\obj\Debug\netcoreapp3.1\OOP07SolidPrinciples.genruntimeconfig.cache
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\OOP07SolidPrinciples\bin\Debug\netcoreapp3.1\SimpleInjector.dll
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\OOP07SolidPrinciples\obj\Debug\netcoreapp3.1\OOP07SolidPrinciples.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\OOP07SolidPrinciples\obj\Debug\netcoreapp3.1\OOP07SolidPrinciples.csproj.CopyComplete

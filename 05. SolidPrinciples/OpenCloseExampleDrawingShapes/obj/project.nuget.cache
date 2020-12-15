@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "COEjKKRWTgMboVWz2oUL/qqgyF22iqfUgMYJk233SDYKNgcrB3tH15/6zfn7tr3OQpIWPdudVlz1n98h0WLK6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anastas\\source\\repos\\OOP05SolidPrinciples\\OpenCloseExampleDrawingShapes\\OpenCloseExampleDrawingShapes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anastas\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
+    "C:\\Users\\anastas\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "C:\\Users\\anastas\\.nuget\\packages\\simpleinjector\\5.1.0\\simpleinjector.5.1.0.nupkg.sha512",
+    "C:\\Users\\anastas\\.nuget\\packages\\system.componentmodel\\4.0.1\\system.componentmodel.4.0.1.nupkg.sha512",
+    "C:\\Users\\anastas\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

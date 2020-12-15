@@ -1,0 +1,12 @@
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P02. DrawingShape-Before\bin\Debug\netcoreapp3.1\P02. DrawingShape-Before.exe
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P02. DrawingShape-Before\bin\Debug\netcoreapp3.1\P02. DrawingShape-Before.deps.json
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P02. DrawingShape-Before\bin\Debug\netcoreapp3.1\P02. DrawingShape-Before.runtimeconfig.json
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P02. DrawingShape-Before\bin\Debug\netcoreapp3.1\P02. DrawingShape-Before.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P02. DrawingShape-Before\bin\Debug\netcoreapp3.1\P02. DrawingShape-Before.dll
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P02. DrawingShape-Before\bin\Debug\netcoreapp3.1\P02. DrawingShape-Before.pdb
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P02. DrawingShape-Before\obj\Debug\netcoreapp3.1\P02. DrawingShape-Before.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P02. DrawingShape-Before\obj\Debug\netcoreapp3.1\P02. DrawingShape-Before.AssemblyInfo.cs
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P02. DrawingShape-Before\obj\Debug\netcoreapp3.1\P02. DrawingShape-Before.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P02. DrawingShape-Before\obj\Debug\netcoreapp3.1\P02. DrawingShape-Before.dll
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P02. DrawingShape-Before\obj\Debug\netcoreapp3.1\P02. DrawingShape-Before.pdb
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P02. DrawingShape-Before\obj\Debug\netcoreapp3.1\P02. DrawingShape-Before.genruntimeconfig.cache

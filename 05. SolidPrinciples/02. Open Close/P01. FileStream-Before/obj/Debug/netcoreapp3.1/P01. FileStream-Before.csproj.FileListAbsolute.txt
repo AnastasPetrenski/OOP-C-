@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P01. FileStream-Before\bin\Debug\netcoreapp3.1\P01. FileStream-Before.exe
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P01. FileStream-Before\bin\Debug\netcoreapp3.1\P01. FileStream-Before.deps.json
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P01. FileStream-Before\bin\Debug\netcoreapp3.1\P01. FileStream-Before.runtimeconfig.json
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P01. FileStream-Before\bin\Debug\netcoreapp3.1\P01. FileStream-Before.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P01. FileStream-Before\bin\Debug\netcoreapp3.1\P01. FileStream-Before.dll
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P01. FileStream-Before\bin\Debug\netcoreapp3.1\P01. FileStream-Before.pdb
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P01. FileStream-Before\obj\Debug\netcoreapp3.1\P01. FileStream-Before.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P01. FileStream-Before\obj\Debug\netcoreapp3.1\P01. FileStream-Before.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P01. FileStream-Before\obj\Debug\netcoreapp3.1\P01. FileStream-Before.AssemblyInfo.cs
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P01. FileStream-Before\obj\Debug\netcoreapp3.1\P01. FileStream-Before.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P01. FileStream-Before\obj\Debug\netcoreapp3.1\P01. FileStream-Before.dll
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P01. FileStream-Before\obj\Debug\netcoreapp3.1\P01. FileStream-Before.pdb
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P01. FileStream-Before\obj\Debug\netcoreapp3.1\P01. FileStream-Before.genruntimeconfig.cache

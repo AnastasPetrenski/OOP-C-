@@ -1,0 +1,25 @@
+<log>
+<date>3/26/2015 2:08:11 PM</date>
+<level>Everything seems fine</level>
+<message>Info</message>
+</log>
+<log>
+<date>3/26/2015 2:22:13 PM</date>
+<level>Warning: ping is too high - disconnect imminent</level>
+<message>Warning</message>
+</log>
+<log>
+<date>3/26/2015 2:32:44 PM</date>
+<level>Error parsing request</level>
+<message>Error</message>
+</log>
+<log>
+<date>3/26/2015 2:38:01 PM</date>
+<level>No connection string found in App.config</level>
+<message>Critical</message>
+</log>
+<log>
+<date>3/26/2015 2:39:19 PM</date>
+<level>mscorlib.dll does not respond</level>
+<message>Fatal</message>
+</log>

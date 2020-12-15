@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\04. Interface Segregation\P02. Identity-Before\bin\Debug\netcoreapp3.1\P02. Identity-Before.exe
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\04. Interface Segregation\P02. Identity-Before\bin\Debug\netcoreapp3.1\P02. Identity-Before.deps.json
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\04. Interface Segregation\P02. Identity-Before\bin\Debug\netcoreapp3.1\P02. Identity-Before.runtimeconfig.json
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\04. Interface Segregation\P02. Identity-Before\bin\Debug\netcoreapp3.1\P02. Identity-Before.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\04. Interface Segregation\P02. Identity-Before\bin\Debug\netcoreapp3.1\P02. Identity-Before.dll
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\04. Interface Segregation\P02. Identity-Before\bin\Debug\netcoreapp3.1\P02. Identity-Before.pdb
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\04. Interface Segregation\P02. Identity-Before\obj\Debug\netcoreapp3.1\P02. Identity-Before.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\04. Interface Segregation\P02. Identity-Before\obj\Debug\netcoreapp3.1\P02. Identity-Before.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\04. Interface Segregation\P02. Identity-Before\obj\Debug\netcoreapp3.1\P02. Identity-Before.AssemblyInfo.cs
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\04. Interface Segregation\P02. Identity-Before\obj\Debug\netcoreapp3.1\P02. Identity-Before.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\04. Interface Segregation\P02. Identity-Before\obj\Debug\netcoreapp3.1\P02. Identity-Before.dll
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\04. Interface Segregation\P02. Identity-Before\obj\Debug\netcoreapp3.1\P02. Identity-Before.pdb
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\04. Interface Segregation\P02. Identity-Before\obj\Debug\netcoreapp3.1\P02. Identity-Before.genruntimeconfig.cache

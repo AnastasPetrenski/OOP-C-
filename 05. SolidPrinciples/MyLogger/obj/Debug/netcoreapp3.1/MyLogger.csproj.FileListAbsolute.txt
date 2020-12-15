@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\MyLogger\bin\Debug\netcoreapp3.1\MyLogger.exe
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\MyLogger\bin\Debug\netcoreapp3.1\MyLogger.deps.json
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\MyLogger\bin\Debug\netcoreapp3.1\MyLogger.runtimeconfig.json
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\MyLogger\bin\Debug\netcoreapp3.1\MyLogger.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\MyLogger\bin\Debug\netcoreapp3.1\MyLogger.dll
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\MyLogger\bin\Debug\netcoreapp3.1\MyLogger.pdb
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\MyLogger\obj\Debug\netcoreapp3.1\MyLogger.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\MyLogger\obj\Debug\netcoreapp3.1\MyLogger.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\MyLogger\obj\Debug\netcoreapp3.1\MyLogger.AssemblyInfo.cs
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\MyLogger\obj\Debug\netcoreapp3.1\MyLogger.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\MyLogger\obj\Debug\netcoreapp3.1\MyLogger.dll
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\MyLogger\obj\Debug\netcoreapp3.1\MyLogger.pdb
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\MyLogger\obj\Debug\netcoreapp3.1\MyLogger.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P03. ShoppingCart-Before\bin\Debug\netcoreapp3.1\P03. ShoppingCart-Before.exe
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P03. ShoppingCart-Before\bin\Debug\netcoreapp3.1\P03. ShoppingCart-Before.deps.json
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P03. ShoppingCart-Before\bin\Debug\netcoreapp3.1\P03. ShoppingCart-Before.runtimeconfig.json
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P03. ShoppingCart-Before\bin\Debug\netcoreapp3.1\P03. ShoppingCart-Before.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P03. ShoppingCart-Before\bin\Debug\netcoreapp3.1\P03. ShoppingCart-Before.dll
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P03. ShoppingCart-Before\bin\Debug\netcoreapp3.1\P03. ShoppingCart-Before.pdb
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P03. ShoppingCart-Before\obj\Debug\netcoreapp3.1\P03. ShoppingCart-Before.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P03. ShoppingCart-Before\obj\Debug\netcoreapp3.1\P03. ShoppingCart-Before.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P03. ShoppingCart-Before\obj\Debug\netcoreapp3.1\P03. ShoppingCart-Before.AssemblyInfo.cs
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P03. ShoppingCart-Before\obj\Debug\netcoreapp3.1\P03. ShoppingCart-Before.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P03. ShoppingCart-Before\obj\Debug\netcoreapp3.1\P03. ShoppingCart-Before.dll
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P03. ShoppingCart-Before\obj\Debug\netcoreapp3.1\P03. ShoppingCart-Before.pdb
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\02. Open Close\P03. ShoppingCart-Before\obj\Debug\netcoreapp3.1\P03. ShoppingCart-Before.genruntimeconfig.cache

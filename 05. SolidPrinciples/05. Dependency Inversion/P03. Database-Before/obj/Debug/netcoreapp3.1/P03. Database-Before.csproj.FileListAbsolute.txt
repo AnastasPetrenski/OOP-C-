@@ -1,0 +1,12 @@
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\05. Dependency Inversion\P03. Database-Before\bin\Debug\netcoreapp3.1\P03. Database-Before.exe
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\05. Dependency Inversion\P03. Database-Before\bin\Debug\netcoreapp3.1\P03. Database-Before.deps.json
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\05. Dependency Inversion\P03. Database-Before\bin\Debug\netcoreapp3.1\P03. Database-Before.runtimeconfig.json
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\05. Dependency Inversion\P03. Database-Before\bin\Debug\netcoreapp3.1\P03. Database-Before.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\05. Dependency Inversion\P03. Database-Before\bin\Debug\netcoreapp3.1\P03. Database-Before.dll
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\05. Dependency Inversion\P03. Database-Before\bin\Debug\netcoreapp3.1\P03. Database-Before.pdb
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\05. Dependency Inversion\P03. Database-Before\obj\Debug\netcoreapp3.1\P03. Database-Before.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\05. Dependency Inversion\P03. Database-Before\obj\Debug\netcoreapp3.1\P03. Database-Before.AssemblyInfo.cs
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\05. Dependency Inversion\P03. Database-Before\obj\Debug\netcoreapp3.1\P03. Database-Before.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\05. Dependency Inversion\P03. Database-Before\obj\Debug\netcoreapp3.1\P03. Database-Before.dll
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\05. Dependency Inversion\P03. Database-Before\obj\Debug\netcoreapp3.1\P03. Database-Before.pdb
+C:\Users\anastas\source\repos\OOP07SolidPrinciples\05. Dependency Inversion\P03. Database-Before\obj\Debug\netcoreapp3.1\P03. Database-Before.genruntimeconfig.cache
