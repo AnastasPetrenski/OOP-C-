@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\OOP08DesignPatterns\OOP08DesignPatterns\bin\Debug\netcoreapp3.1\OOP08DesignPatterns.exe
+C:\Users\anastas\source\repos\OOP08DesignPatterns\OOP08DesignPatterns\bin\Debug\netcoreapp3.1\OOP08DesignPatterns.deps.json
+C:\Users\anastas\source\repos\OOP08DesignPatterns\OOP08DesignPatterns\bin\Debug\netcoreapp3.1\OOP08DesignPatterns.runtimeconfig.json
+C:\Users\anastas\source\repos\OOP08DesignPatterns\OOP08DesignPatterns\bin\Debug\netcoreapp3.1\OOP08DesignPatterns.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\OOP08DesignPatterns\OOP08DesignPatterns\bin\Debug\netcoreapp3.1\OOP08DesignPatterns.dll
+C:\Users\anastas\source\repos\OOP08DesignPatterns\OOP08DesignPatterns\bin\Debug\netcoreapp3.1\OOP08DesignPatterns.pdb
+C:\Users\anastas\source\repos\OOP08DesignPatterns\OOP08DesignPatterns\obj\Debug\netcoreapp3.1\OOP08DesignPatterns.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\OOP08DesignPatterns\OOP08DesignPatterns\obj\Debug\netcoreapp3.1\OOP08DesignPatterns.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\OOP08DesignPatterns\OOP08DesignPatterns\obj\Debug\netcoreapp3.1\OOP08DesignPatterns.AssemblyInfo.cs
+C:\Users\anastas\source\repos\OOP08DesignPatterns\OOP08DesignPatterns\obj\Debug\netcoreapp3.1\OOP08DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\OOP08DesignPatterns\OOP08DesignPatterns\obj\Debug\netcoreapp3.1\OOP08DesignPatterns.dll
+C:\Users\anastas\source\repos\OOP08DesignPatterns\OOP08DesignPatterns\obj\Debug\netcoreapp3.1\OOP08DesignPatterns.pdb
+C:\Users\anastas\source\repos\OOP08DesignPatterns\OOP08DesignPatterns\obj\Debug\netcoreapp3.1\OOP08DesignPatterns.genruntimeconfig.cache
